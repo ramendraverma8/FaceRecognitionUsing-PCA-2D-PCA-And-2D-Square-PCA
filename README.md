@@ -21,19 +21,20 @@ Implementation of PCA/2D-PCA/2D(Square)-PCA in Python for recognizing Faces:
 (You can create new dataset by extracting faces using FaceExtractor provided)
 4. Run Face_Recognition and Enjoy Project
 
-# How to run my Face Recognition Project
+# Videos
+### How to run my Face Recognition Project
 https://www.youtube.com/watch?v=kJFiKRu5yIc
 
-# YouTube Tutorials
+### YouTube Tutorials for Project
 https://www.youtube.com/channel/UCgPow08o-Uei1FPJhhRJdiw/playlists?sort=dd&view=50&shelf_id=14
 
-# How to detect Face Mask in Video or Image using PCA
+### How to detect Face Mask in Video or Image using PCA
 https://www.youtube.com/watch?v=6R8EgLI9Ovg
 
-# A Complete Understanding of PCA(Principal Component Analysis)
+### A Complete Understanding of PCA(Principal Component Analysis)
 https://www.youtube.com/watch?v=NP5zbFLcQYM
 
-# A Complete Understanding of Singular Value Decomposition
+### A Complete Understanding of Singular Value Decomposition
 https://www.youtube.com/watch?v=GnZQ704UDvM
 
 ## Liked my work?
