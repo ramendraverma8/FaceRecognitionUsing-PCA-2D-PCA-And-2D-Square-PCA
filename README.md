@@ -22,20 +22,19 @@ Implementation of PCA/2D-PCA/2D(Square)-PCA in Python for recognizing Faces:
 4. Run Face_Recognition and Enjoy Project
 
 # Videos
-### How to run my Face Recognition Project
-https://www.youtube.com/watch?v=kJFiKRu5yIc
+- [How to run my Face Recognition Project](https://www.youtube.com/watch?v=kJFiKRu5yIc)
 
-### YouTube Tutorials for Project
-https://www.youtube.com/channel/UCgPow08o-Uei1FPJhhRJdiw/playlists?sort=dd&view=50&shelf_id=14
+- [PCA-Face Recognition(Principal Component Analysis) Playlist](https://www.youtube.com/playlist?list=PLgWKOWHJlDUM_cog-ujJgYoRCJ6LcAhtU)
 
-### How to detect Face Mask in Video or Image using PCA
-https://www.youtube.com/watch?v=6R8EgLI9Ovg
+- [2D-PCA-Face Recognition(Two Dimensional Principal Component Analysis) Playlist](https://www.youtube.com/playlist?list=PLgWKOWHJlDUOgp8mj5pnTmA9j_i3RRJbD)
 
-### A Complete Understanding of PCA(Principal Component Analysis)
-https://www.youtube.com/watch?v=NP5zbFLcQYM
+- [2D(Square)-PCA-Face Recognition(Two Directional Two Dimensional Principal Component Analysis) Playlist](https://www.youtube.com/playlist?list=PLgWKOWHJlDUNNtPxO82kJyotdGtxTzzoX)
 
-### A Complete Understanding of Singular Value Decomposition
-https://www.youtube.com/watch?v=GnZQ704UDvM
+- [How to detect Face Mask in Video or Image using PCA](https://www.youtube.com/watch?v=6R8EgLI9Ovg)
+
+- [A Complete Understanding of PCA(Principal Component Analysis)](https://www.youtube.com/watch?v=NP5zbFLcQYM)
+
+- [A Complete Understanding of Singular Value Decomposition](https://www.youtube.com/watch?v=GnZQ704UDvM)
 
 ## Liked my work?
 <a href="https://www.buymeacoffee.com/parveshmonu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
